@@ -35,6 +35,10 @@ which just had its IPO 🥳)
 - Spacemacs
 - Tmux
 - ZSH
+- Homebrew
+- Autodesk Fusion 360
+- Autodesk EAGLE
+- Autodesk ReCap
 
 ## Challenges we ran into
 1. Team assembly
