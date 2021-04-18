@@ -1,12 +1,10 @@
-TODO: Everything listed below
-
 # GitHub
 https://github.com/michaelpass/PROJECT-MARS/
-
 ---
 
-# LinkedIn
 
+# LinkedIn
+(Coming Soon)
 ---
 
 ## Inspiration
@@ -14,13 +12,29 @@ As a crew of purely college-centric developers, we know that laundromats are not
 always the most ideal place to do your laundry at 2:00am on a Friday night. In a
 large, crowded metropolis, this can at times feel like a nightmare scenario. Now
 imagine getting clean laundry in a hospital environment during an ongoing
-geopolitical conflict. At Project MARS (Project #M.RS.), we firmly believe that
-all people should have access to clean and secure laundry, no matter where they
-may be on the globe. 
+geopolitical conflict. At Project MARS (i.e. Project #M.RS.) [pronounced in
+English like our 4th planet from the sun] , we firmly believe that all people
+should have access to clean and secure laundry, no matter where they may be on
+the globe. 
 
 ## What it does
+We plan to release $10-100 open source kits that allows those with sufficient
+technical abilities to retrofit existing coin-operated laundry machines and
+convert them into "smart" laundry machines that can accept payment through
+digital wallet services (ideally Bitcoin/Ethereum and something like Coinbase,
+which just had its IPO 🥳)
+
 
 ## How I/we built it
+- Elbow grease 
+- Love
+- More elbow grease
+
+### Toolchain
+- Vim/Neovim
+- Spacemacs
+- Tmux
+- ZSH
 
 ## Challenges we ran into
 1. Team assembly
@@ -28,10 +42,20 @@ may be on the globe.
 3. COVID-19 paranoia
 
 ## Accomplishments that we're proud of
+At this point, with technical difficulty piling upon technical difficulty with
+regards to our payment platforms (we're all rather young, and thus inexperienced
+as financiers) we are highly grateful to have any code base up and running,
+including this markdown file. 
 
 ## What we learned
+That it takes all walks of live to succeed in the modern IT-landscape. The
+future, we believe, belongs to hybrid systems, and that includes hybrid people.
 
 ## What's next for Project #M.RS.
+- Legal incorporation (LLC preferred)
+- Domain registration
+- Reconciling AWS expenses
+
 
 ## About US
 
