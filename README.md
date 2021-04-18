@@ -52,7 +52,7 @@ as financiers) we are highly grateful to have any code base up and running,
 including this markdown file. 
 
 ## What we learned
-That it takes all walks of live to succeed in the modern IT-landscape. The
+That it takes all walks of life to succeed in the modern IT-landscape. The
 future, we believe, belongs to hybrid systems, and that includes hybrid people.
 
 ## What's next for Project #M.RS.
