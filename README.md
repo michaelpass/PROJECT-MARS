@@ -64,19 +64,20 @@ future, we believe, belongs to hybrid systems, and that includes hybrid people.
 ## Co-Founders
 # M - Michael Pass
 <img src="https://github.com/michaelpass/PROJECT-MARS/blob/main/Media%20assets/Profile%20pictures/Michael%20Pass%20-%20Round.jpg?raw=true" width="500" height="500"></img>
+---
 ⚡ Lighting-fast prototyper
 📚 Script-kiddy
 👾 Primary developer during hackathon hours
 
 # R - Rohan Gupta
 <img src="https://github.com/michaelpass/PROJECT-MARS/blob/main/Media%20assets/Profile%20pictures/Rohan%20Gupta%20-%20Round.jpg?raw=true" width="500" height="500"></img>
-
+---
 **Note: Rohan Gupta was unable to actively participate in this Hackathon due to
 prior academic obligations.** 
 
 # S - Stephen Starr
 <img src="https://github.com/michaelpass/PROJECT-MARS/blob/main/Media%20assets/Profile%20pictures/Stephen%20Starr%20-%20Round.jpg?raw=true" width="500" height="500"></img>
-
+---
 **Note: Stephen Starr was unable to actively participate in this Hackathon due
 to post-graduate/professional status as a developer.**
 
