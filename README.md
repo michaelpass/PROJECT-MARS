@@ -24,6 +24,8 @@ convert them into "smart" laundry machines that can accept payment through
 digital wallet services (ideally Bitcoin/Ethereum and something like Coinbase,
 which just had its IPO 🥳)
 
+We envision a web app running off of an Ubuntu 20 (LTS) AWS EC2 instance that will host an Apache HTTP server. From there, we can serve users a website on port 80, the default HTTP port, a JavaScript/Node.js-powered experience to allow for payment entirely online. At the actual laundry machine, we envision a custom point of sale terminal powered by a Raspberry Pi Zero. These point of sale terminals with Google Pay/Apple Pay already exist. The novelty in this project primarily comes from its open source status, so that we may sell kits to developing nations to allow clean laundry to be done, particularly in hospital environments, during times of conflict/scarcity. Digitizing the wallet experience further allows remissions to be sent by friends and family overseas, assuring the that the "Tide" 🌊🌊🌊 (pun intended) of clean laundry never stops flowing.
+
 
 ## How I/we built it
 - Elbow grease 
